@@ -99,6 +99,7 @@ nav ul li{
 ***********************************************************/
 
 nav ul{
+	background-color: rgb(220,220,220);
 	display:flex;
 	justify-content: space-around;
 }
