@@ -138,3 +138,8 @@ width: 100%;
 #rainbow div{
 	flex-grow:1;
 }
+
+#rainbow #re, #rainbow #bl{
+	/*twice as bign as all others, relative to space. not doubling size, need to set flex-basis*/
+	flex-grow:3;
+}
