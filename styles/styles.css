@@ -131,3 +131,16 @@ aside .sidebarbox{
 #fish img{
 width: 100%;
 }
+
+#rainbow{
+	display:flex;
+}
+#rainbow div{
+	flex-grow:1;
+	flex-basis: 0p
+}
+
+#rainbow #re, #rainbow #bl{
+	/*twice as bign as all others, relative to space. not doubling size, need to set flex-basis*/
+	flex-grow:3;
+}
