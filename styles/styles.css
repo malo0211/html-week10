@@ -141,5 +141,9 @@ width: 100%;
 
 #rainbow #re, #rainbow #bl{
 	/*twice as bign as all others, relative to space. not doubling size, need to set flex-basis*/
+	flex-grow:2;
+}
+
+#rainbow #gr{
 	flex-grow:3;
 }
