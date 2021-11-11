@@ -122,9 +122,8 @@ aside{
 
 #fish{
 	display:flex;
-	flex-wrap: wrap;
 }
 
 #fish img{
-
+width: 100%;
 }
