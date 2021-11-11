@@ -113,4 +113,8 @@ main{
 
 aside{
 	width:25%;
+	/* display flex is not inherited*/
+	display: flex;
+	flex-direction: column-reverse;
 }
+
