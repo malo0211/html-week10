@@ -119,6 +119,9 @@ aside{
 	display: flex;
 	flex-direction: column-reverse;
 }
+aside .sidebarbox{
+	flex-basis: 0;
+}
 
 #fish{
 	display:flex;
