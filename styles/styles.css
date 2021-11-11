@@ -101,3 +101,8 @@ nav ul li{
 nav ul{
 	display:flex;
 }
+
+/* div with class bodyflex contains main and the aside */
+.bodyflex{
+	display:flex;
+}
